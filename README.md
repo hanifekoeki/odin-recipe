@@ -10,5 +10,3 @@ By completing this project, I will have demonstrated the following skills:
 - Using semantic HTML elements
 - Creating and organizing a project folder structure  
 - Writing clear, descriptive README files
-
-Finished!!!! woohooo
